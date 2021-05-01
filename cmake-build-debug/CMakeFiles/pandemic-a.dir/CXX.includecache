@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/harel/Public/c++/pandemic-a/Board.cpp
-
 /home/harel/Public/c++/pandemic-a/Board.hpp
 iostream
 -
 City.hpp
 /home/harel/Public/c++/pandemic-a/City.hpp
 
-/home/harel/Public/c++/pandemic-a/City.cpp
-
 /home/harel/Public/c++/pandemic-a/City.hpp
-
-/home/harel/Public/c++/pandemic-a/Color.cpp
 
 /home/harel/Public/c++/pandemic-a/Color.hpp
 
@@ -68,37 +62,67 @@ iostream
 stdexcept
 -
 
-/home/harel/Public/c++/pandemic-a/Dispatcher.cpp
-
 /home/harel/Public/c++/pandemic-a/Dispatcher.hpp
-
-/home/harel/Public/c++/pandemic-a/FieldDoctor.cpp
-
-/home/harel/Public/c++/pandemic-a/FieldDoctor.hpp
-
-/home/harel/Public/c++/pandemic-a/GeneSplicer.cpp
-
-/home/harel/Public/c++/pandemic-a/GeneSplicer.hpp
-
-/home/harel/Public/c++/pandemic-a/Medic.cpp
-
-/home/harel/Public/c++/pandemic-a/Medic.hpp
-
-/home/harel/Public/c++/pandemic-a/OperationsExpert.cpp
-
-/home/harel/Public/c++/pandemic-a/OperationsExpert.hpp
-
-/home/harel/Public/c++/pandemic-a/Player.cpp
-
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
 /home/harel/Public/c++/pandemic-a/Player.hpp
 
-/home/harel/Public/c++/pandemic-a/Researcher.cpp
+/home/harel/Public/c++/pandemic-a/FieldDoctor.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
+
+/home/harel/Public/c++/pandemic-a/GeneSplicer.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
+
+/home/harel/Public/c++/pandemic-a/Medic.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
+
+/home/harel/Public/c++/pandemic-a/OperationsExpert.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
+
+/home/harel/Public/c++/pandemic-a/Player.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
 
 /home/harel/Public/c++/pandemic-a/Researcher.hpp
-
-/home/harel/Public/c++/pandemic-a/Scientist.cpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
 
 /home/harel/Public/c++/pandemic-a/Scientist.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
 
 /home/harel/Public/c++/pandemic-a/Test.cpp
 istream
@@ -110,9 +134,13 @@ Board.hpp
 doctest.h
 /home/harel/Public/c++/pandemic-a/doctest.h
 
-/home/harel/Public/c++/pandemic-a/Virologist.cpp
-
 /home/harel/Public/c++/pandemic-a/Virologist.hpp
+Board.hpp
+/home/harel/Public/c++/pandemic-a/Board.hpp
+City.hpp
+/home/harel/Public/c++/pandemic-a/City.hpp
+Player.hpp
+/home/harel/Public/c++/pandemic-a/Player.hpp
 
 /home/harel/Public/c++/pandemic-a/doctest.h
 iosfwd

@@ -12,6 +12,7 @@ CMakeFiles/pandemic-a.dir/Demo1.cpp.o: ../City.hpp
 CMakeFiles/pandemic-a.dir/Demo1.cpp.o: ../Color.hpp
 CMakeFiles/pandemic-a.dir/Demo1.cpp.o: ../Demo1.cpp
 CMakeFiles/pandemic-a.dir/Demo1.cpp.o: ../OperationsExpert.hpp
+CMakeFiles/pandemic-a.dir/Demo1.cpp.o: ../Player.hpp
 
 CMakeFiles/pandemic-a.dir/Demo2.cpp.o: ../Board.hpp
 CMakeFiles/pandemic-a.dir/Demo2.cpp.o: ../City.hpp
