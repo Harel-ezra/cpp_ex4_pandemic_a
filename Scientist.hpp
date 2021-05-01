@@ -7,8 +7,12 @@ namespace pandemic
     class Scientist : public Player
     {
     public:
-        Scientist(Board b, City c, int number);
-        ~Scientist();
+        Scientist(Board b, City c, int number): Player(b,c)
+        {}
+
+        ~Scientist()
+        {}
+
 
     };
 }

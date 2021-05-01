@@ -7,8 +7,11 @@ namespace pandemic
     class Medic : public Player
     {
     public:
-        Medic(Board b, City c);
-        ~Medic();
+        Medic(Board b, City c): Player(b,c)
+        {}
+
+        ~Medic()
+        {}
 
     };
 }
