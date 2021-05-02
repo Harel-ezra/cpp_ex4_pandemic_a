@@ -17,7 +17,7 @@ namespace pandemic {
         void operator=(int dis);
 
         bool is_clean() const;
-
+        void remove_cures();
         friend std::ostream &operator<<(std::ostream &output, const Board &board);
     };
 }

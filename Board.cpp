@@ -17,7 +17,10 @@ void Board::operator=(int dis) {
 bool Board::is_clean() const {
     return true;
 }
-
+void Board::remove_cures()
+{
+    return;
+}
 std::ostream &pandemic::operator<<(std::ostream &output, const Board &board) {
     return output;
 }
