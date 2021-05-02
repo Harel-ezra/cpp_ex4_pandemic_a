@@ -5,9 +5,15 @@
 using namespace std;
 using namespace pandemic;
 
-Board &Board::operator[](City c) {
-    return *this;
+int& Board::operator[](const City c) {
+    return reinterpret_cast<int &>(*this);
 }
+
+const int Board::operator[](City c) const
+{
+    return 0;
+}
+
 
 void Board::operator=(int dis) {
     return;

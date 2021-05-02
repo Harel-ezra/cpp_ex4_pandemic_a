@@ -13,7 +13,8 @@ namespace pandemic {
 
         ~Board() {}
 
-        Board& operator[](City c);
+        int& operator[](City c);
+        const int operator[](City c)const;
         void operator=(int dis);
 
         bool is_clean() const;

@@ -3,6 +3,8 @@
 
 CMakeFiles/pandemic-a.dir/Board.cpp.o
  /home/harel/Public/c++/pandemic-a/Board.cpp
+ /home/harel/Public/c++/pandemic-a/Board.hpp
+ /home/harel/Public/c++/pandemic-a/City.hpp
 CMakeFiles/pandemic-a.dir/City.cpp.o
  /home/harel/Public/c++/pandemic-a/City.cpp
 CMakeFiles/pandemic-a.dir/Color.cpp.o
@@ -39,7 +41,11 @@ CMakeFiles/pandemic-a.dir/Medic.cpp.o
 CMakeFiles/pandemic-a.dir/OperationsExpert.cpp.o
  /home/harel/Public/c++/pandemic-a/OperationsExpert.cpp
 CMakeFiles/pandemic-a.dir/Player.cpp.o
+ /home/harel/Public/c++/pandemic-a/Board.hpp
+ /home/harel/Public/c++/pandemic-a/City.hpp
+ /home/harel/Public/c++/pandemic-a/Color.hpp
  /home/harel/Public/c++/pandemic-a/Player.cpp
+ /home/harel/Public/c++/pandemic-a/Player.hpp
 CMakeFiles/pandemic-a.dir/Researcher.cpp.o
  /home/harel/Public/c++/pandemic-a/Researcher.cpp
 CMakeFiles/pandemic-a.dir/Scientist.cpp.o
